@@ -1,4 +1,4 @@
-![Circle CI shield](https://img.shields.io/circleci/project/testing-with-mocha/PHP.Gt.svg)
+[![CircleCI](https://img.shields.io/circleci/project/jsstrn/testing-with-mocha.svg?style=flat-square)](https://github.com/jsstrn/testing-with-mocha)
 
 ## Instructions
 
